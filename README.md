@@ -41,3 +41,15 @@ A simple reservation system backend built using **Spring Boot**, **Hibernate**, 
 ```bash
 git clone https://github.com/sherlocked862/reservation-system.git
 cd reservation-system
+```
+
+### 2. Configure Database
+Update application.yaml
+```yaml
+spring.datasource.url=jdbc:postgresql://localhost:5432/reservation_db
+spring.datasource.username=your_username
+spring.datasource.password=your_password
+spring.jpa.hibernate.ddl-auto=update
+
+```
+
