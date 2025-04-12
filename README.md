@@ -39,5 +39,5 @@ A simple reservation system backend built using **Spring Boot**, **Hibernate**, 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/train-reservation-system.git
-cd train-reservation-system
+git clone https://github.com/sherlocked862/reservation-system.git
+cd reservation-system
