@@ -53,3 +53,8 @@ spring.jpa.hibernate.ddl-auto=update
 
 ```
 
+### 3. Run with Maven
+```bash
+./mvnw spring-boot:run
+```
+
